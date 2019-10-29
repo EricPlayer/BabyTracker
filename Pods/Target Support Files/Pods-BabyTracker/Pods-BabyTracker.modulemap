@@ -1,0 +1,6 @@
+framework module Pods_BabyTracker {
+  umbrella header "Pods-BabyTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
